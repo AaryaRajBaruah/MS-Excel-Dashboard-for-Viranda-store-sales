@@ -16,3 +16,4 @@ Sample Insights:
 4. Amazon, Flipkart and Myntra channels are max contributing (~80%)
  
 Final Conclusion to improve Vrinda store sales: Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
+![Screenshot 2024-11-22 011303](https://github.com/user-attachments/assets/3ae27a22-755b-48e6-931b-34f83277de52)
